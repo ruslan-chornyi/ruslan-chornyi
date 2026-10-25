@@ -14,5 +14,6 @@ Python · aiogram · FastAPI · SQLAlchemy · PostgreSQL · Docker · Git
 
 - LinkedIn: https://www.linkedin.com/in/ruslan-chornyi-624645416/?isSelfProfile=true
 - Email: rcernuy8@gmail.com
+- Portfolio: https://ruslan-chornyi.github.io
 
 Open to small freelance projects.
